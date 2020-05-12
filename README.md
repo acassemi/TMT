@@ -12,3 +12,5 @@ HOW TO USE:
 4 - Run the updateVLANs.py file, it will ask you the name of the file previously generated using the getVLANs script and will update your migrated Network to the values saved on the NETWORK-NAME.json.
 
 5 - Enjoy your free time.
+
+*You should also run the "pip install -r requirements.txt" to install required modules.
